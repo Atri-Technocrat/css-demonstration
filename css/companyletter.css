@@ -65,8 +65,14 @@
 .color-blue{
     color: #254F7D;
 }
+.p-o{
+    padding: 1px !important;
+}
 .p-l-f-p{
     padding-left: 4% !important;
+}
+.p-r-f{
+    padding-right: 5px !important;
 }
 .color-wt{
     color: white;
